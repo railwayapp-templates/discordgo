@@ -10,7 +10,7 @@ tags:
 
 This example starts a Discord bot using [discordgo](https://github.com/bwmarrin/discordgo) and [Golang](https://golang.org/).
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new?template=https%3A%2F%2Fgithub.com%2Frailwayapp%2Fexamples%2Ftree%2Fmaster%2Fexamples%2Fdiscordgo&envs=DISCORD_TOKEN&DISCORD_TOKENDesc=Token+of+your+Discord+bot)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/TZ2dBZ)
 
 ## ✨ Features
 
